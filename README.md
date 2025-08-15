@@ -14,7 +14,7 @@ To join a **Security Operations Center (SOC)** as a Tier 1 Analyst, leveraging m
 
 | Skill                                         | Associated Project |
 |-----------------------------------------------|--------------------|
-| SIEM Implementation & Log Analysis           | [Splunk Investigation Lab](./projects/siem-log-investigation) |
+| SIEM Implementation & Log Analysis           | [Splunk Investigation Lab]"https://github.com/MAlhadi63/Splunk-Investigation-Lab/tree/main"|
 | Network Traffic Monitoring & Attack Detection | [Wireshark Packet Analysis](./projects/network-traffic-analysis) |
 | Vulnerability Scanning & Risk Assessment     | [OpenVAS Vulnerability Scan](./projects/vulnerability-scanning) |
 | Incident Response Planning & Execution       | [Incident Response Simulation](./projects/incident-response) |
@@ -56,7 +56,7 @@ To join a **Security Operations Center (SOC)** as a Tier 1 Analyst, leveraging m
 
 ## 📂 Featured Projects
 
-- **[Splunk Investigation Lab](./projects/siem-log-investigation)** – Detected and documented malicious login attempts using simulated enterprise logs.
+- [Splunk Investigation Lab]"https://github.com/MAlhadi63/Splunk-Investigation-Lab/tree/main"
 - **[Wireshark Packet Analysis](./projects/network-traffic-analysis)** – Identified port scans and brute force attacks in a controlled lab network.
 - **[OpenVAS Vulnerability Scan](./projects/vulnerability-scanning)** – Performed vulnerability scans and created remediation reports.
 - **[Incident Response Simulation](./projects/incident-response)** – Planned and executed a mock incident response workflow.
