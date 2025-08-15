@@ -49,7 +49,7 @@ To join a **Security Operations Center (SOC)** as a Tier 1 Analyst, leveraging m
 ## 📜 Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 </div>
 
 ---
