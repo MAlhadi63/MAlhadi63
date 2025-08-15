@@ -14,7 +14,7 @@ To join a **Security Operations Center (SOC)** as a Tier 1 Analyst, leveraging m
 
 | Skill                                         | Associated Project |
 |-----------------------------------------------|--------------------|
-| SIEM Implementation & Log Analysis           | [Splunk Investigation Lab]"https://github.com/MAlhadi63/Splunk-Investigation-Lab/tree/main"|
+| SIEM Implementation & Log Analysis           | <a href="https://github.com/MAlhadi63/Splunk-Investigation-Lab/tree/main"</a>|
 | Network Traffic Monitoring & Attack Detection | [Wireshark Packet Analysis](./projects/network-traffic-analysis) |
 | Vulnerability Scanning & Risk Assessment     | [OpenVAS Vulnerability Scan](./projects/vulnerability-scanning) |
 | Incident Response Planning & Execution       | [Incident Response Simulation](./projects/incident-response) |
