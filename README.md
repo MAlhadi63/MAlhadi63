@@ -59,7 +59,7 @@ To join a **Security Operations Center (SOC)** as a Tier 1 Analyst, leveraging m
 ---
 
 ## 📂 Featured Projects
-- <a [Phishing Risk Assessment Report](phishing_risk_report.md)Mini Risk Assessment Report: Phishing Attacks on E-Commerce Company</a>|
+-  [Phishing Risk Assessment Report](phishing_risk_report.md)Mini Risk Assessment Report: Phishing Attacks on E-Commerce Company</a>|
 -  <a href="https://github.com/MAlhadi63/Splunk-Investigation-Lab/tree/main">Splunk-Investigation-Lab</a>|
 - **[Wireshark Packet Analysis](./projects/network-traffic-analysis)** – Identified port scans and brute force attacks in a controlled lab network.
 - **[OpenVAS Vulnerability Scan](./projects/vulnerability-scanning)** – Performed vulnerability scans and created remediation reports.
