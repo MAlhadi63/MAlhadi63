@@ -9,13 +9,14 @@ After earning the **Google Cybersecurity Professional Certificate**, I’ve dedi
 To join a **Security Operations Center (SOC)** as a Tier 1 Analyst, leveraging my portfolio of security projects and technical expertise to detect, investigate, and respond to threats.
 
 ---
+## Documentation
+
+- [Phishing Risk Assessment Report](phishing_risk_report.md)
 
 ## 🛠 Skills & Associated Projects
 
 | Skill                                         | Associated Project |
-|-----------------------------------------------|--------------------|
-|Mini Risk Assessment Report: Phishing Attacks
-  on E-Commerce Company                        |<a href="https://github.com/MAlhadi63/Risk Assessment Basic/tree/main">Risk Assessment Basic</a>|
+|-----------------------------------------------|--------------------|                 
 | SIEM Implementation & Log Analysis           | <a href="https://github.com/MAlhadi63/Splunk-Investigation-Lab/tree/main">Splunk-Investigation-Lab</a>|
 | Network Traffic Monitoring & Attack Detection | [Wireshark Packet Analysis](./projects/network-traffic-analysis) |
 | Vulnerability Scanning & Risk Assessment     | [OpenVAS Vulnerability Scan](./projects/vulnerability-scanning) |
